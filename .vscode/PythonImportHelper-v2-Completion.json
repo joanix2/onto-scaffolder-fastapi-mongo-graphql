@@ -1,0 +1,971 @@
+[
+    {
+        "label": "strawberry",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "strawberry",
+        "description": "strawberry",
+        "detail": "strawberry",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "get_abox_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_abox_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_m2t_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_m2t_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_tbox_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_tbox_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_templates_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_templates_collection",
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "isExtraImport": true,
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "InstanceInput",
+        "importPath": "app.src.features.a_box.inputs",
+        "description": "app.src.features.a_box.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "RelationInput",
+        "importPath": "app.src.features.a_box.inputs",
+        "description": "app.src.features.a_box.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "abox_to_type",
+        "importPath": "app.src.features.a_box.resolvers",
+        "description": "app.src.features.a_box.resolvers",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxType",
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxType",
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "InstanceType",
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "RelationType",
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxQuery",
+        "importPath": "app.src.features.t_box.query",
+        "description": "app.src.features.t_box.query",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.query",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxMutation",
+        "importPath": "app.src.features.t_box.mutation",
+        "description": "app.src.features.t_box.mutation",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxMutation",
+        "importPath": "app.src.features.a_box.mutation",
+        "description": "app.src.features.a_box.mutation",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxQuery",
+        "importPath": "app.src.features.a_box.query",
+        "description": "app.src.features.a_box.query",
+        "isExtraImport": true,
+        "detail": "app.src.features.a_box.query",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateQuery",
+        "importPath": "app.src.features.template.query",
+        "description": "app.src.features.template.query",
+        "isExtraImport": true,
+        "detail": "app.src.features.template.query",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateMutation",
+        "importPath": "app.src.features.template.mutation",
+        "description": "app.src.features.template.mutation",
+        "isExtraImport": true,
+        "detail": "app.src.features.template.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "Model2TextQuery",
+        "importPath": "app.src.features.model2text.query",
+        "description": "app.src.features.model2text.query",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.query",
+        "documentation": {}
+    },
+    {
+        "label": "Model2TextMutation",
+        "importPath": "app.src.features.model2text.mutation",
+        "description": "app.src.features.model2text.mutation",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelToTextInput",
+        "importPath": "app.src.features.model2text.inputs",
+        "description": "app.src.features.model2text.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "model2text_to_type",
+        "importPath": "app.src.features.model2text.resolvers",
+        "description": "app.src.features.model2text.resolvers",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelToTextType",
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "ModelToTextType",
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "ClassToTextType",
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "TextTransformationType",
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "ClassInput",
+        "importPath": "app.src.features.t_box.inputs",
+        "description": "app.src.features.t_box.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "DatatypePropertyInput",
+        "importPath": "app.src.features.t_box.inputs",
+        "description": "app.src.features.t_box.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectPropertyInput",
+        "importPath": "app.src.features.t_box.inputs",
+        "description": "app.src.features.t_box.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "tbox_to_type",
+        "importPath": "app.src.features.t_box.resolvers",
+        "description": "app.src.features.t_box.resolvers",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxType",
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxType",
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "ClassType",
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "DatatypePropertyType",
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectPropertyType",
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "JinjaTemplateInput",
+        "importPath": "app.src.features.template.inputs",
+        "description": "app.src.features.template.inputs",
+        "isExtraImport": true,
+        "detail": "app.src.features.template.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "template_to_type",
+        "importPath": "app.src.features.template.resolvers",
+        "description": "app.src.features.template.resolvers",
+        "isExtraImport": true,
+        "detail": "app.src.features.template.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "JinjaTemplateType",
+        "importPath": "app.src.features.template.types",
+        "description": "app.src.features.template.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.template.types",
+        "documentation": {}
+    },
+    {
+        "label": "JinjaTemplateType",
+        "importPath": "app.src.features.template.types",
+        "description": "app.src.features.template.types",
+        "isExtraImport": true,
+        "detail": "app.src.features.template.types",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "GraphQLRouter",
+        "importPath": "strawberry.fastapi",
+        "description": "strawberry.fastapi",
+        "isExtraImport": true,
+        "detail": "strawberry.fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "importPath": "app.src.features.graphql.graphql_schema",
+        "description": "app.src.features.graphql.graphql_schema",
+        "isExtraImport": true,
+        "detail": "app.src.features.graphql.graphql_schema",
+        "documentation": {}
+    },
+    {
+        "label": "InstanceInput",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.inputs",
+        "description": "app.src.features.a_box.inputs",
+        "peekOfCode": "class InstanceInput:\n    class_name: str\n    properties: Optional[List[str]] = None  # You may want Dict[str, Any], but GraphQL prefers List or custom types\n    constraints: Optional[List[str]] = None\n@strawberry.input\nclass RelationInput:\n    subject: str\n    predicate: str\n    object: str\n    constraints: Optional[List[str]] = None",
+        "detail": "app.src.features.a_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "RelationInput",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.inputs",
+        "description": "app.src.features.a_box.inputs",
+        "peekOfCode": "class RelationInput:\n    subject: str\n    predicate: str\n    object: str\n    constraints: Optional[List[str]] = None",
+        "detail": "app.src.features.a_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxMutation",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.mutation",
+        "description": "app.src.features.a_box.mutation",
+        "peekOfCode": "class ABoxMutation:\n    @strawberry.mutation\n    async def add_instance_to_abox(self, abox_id: str, instance_input: InstanceInput) -> bool:\n        result = await get_abox_collection().update_one(\n            {\"_id\": abox_id},\n            {\"$push\": {\"instances\": instance_input.__dict__}}\n        )\n        return result.modified_count > 0\n    @strawberry.mutation\n    async def add_relation_to_abox(self, abox_id: str, relation_input: RelationInput) -> bool:",
+        "detail": "app.src.features.a_box.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxQuery",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.query",
+        "description": "app.src.features.a_box.query",
+        "peekOfCode": "class ABoxQuery:\n    @strawberry.field\n    async def aboxes(self) -> List[ABoxType]:\n        aboxes = await get_abox_collection().find().to_list(100)\n        return [abox_to_type(a) for a in aboxes]\n    @strawberry.field\n    async def abox(self, abox_id: str) -> Optional[ABoxType]:\n        abox = await get_abox_collection().find_one({\"_id\": abox_id})\n        if abox:\n            return abox_to_type(abox)",
+        "detail": "app.src.features.a_box.query",
+        "documentation": {}
+    },
+    {
+        "label": "abox_to_type",
+        "kind": 2,
+        "importPath": "app.src.features.a_box.resolvers",
+        "description": "app.src.features.a_box.resolvers",
+        "peekOfCode": "def abox_to_type(abox_doc):\n    return ABoxType(\n        id=str(abox_doc[\"_id\"]),\n        instances=[InstanceType(**i) for i in abox_doc.get(\"instances\", [])],\n        relations=[RelationType(**r) for r in abox_doc.get(\"relations\", [])],\n    )",
+        "detail": "app.src.features.a_box.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "InstanceType",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "peekOfCode": "class InstanceType:\n    class_name: str\n    properties: Optional[List[str]]  # For GraphQL, use List or custom types\n    constraints: Optional[List[str]]\n@strawberry.type\nclass RelationType:\n    subject: str\n    predicate: str\n    object: str\n    constraints: Optional[List[str]]",
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "RelationType",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "peekOfCode": "class RelationType:\n    subject: str\n    predicate: str\n    object: str\n    constraints: Optional[List[str]]\n@strawberry.type\nclass ABoxType:\n    id: str\n    instances: List[InstanceType]\n    relations: List[RelationType]",
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "ABoxType",
+        "kind": 6,
+        "importPath": "app.src.features.a_box.types",
+        "description": "app.src.features.a_box.types",
+        "peekOfCode": "class ABoxType:\n    id: str\n    instances: List[InstanceType]\n    relations: List[RelationType]",
+        "detail": "app.src.features.a_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "kind": 6,
+        "importPath": "app.src.features.graphql.graphql_schema",
+        "description": "app.src.features.graphql.graphql_schema",
+        "peekOfCode": "class Query(TBoxQuery, ABoxQuery, TemplateQuery, Model2TextQuery):\n    pass\nModel2TextMutation\n@strawberry.type\nclass Mutation(TBoxMutation, ABoxMutation, TemplateMutation, Model2TextMutation):\n    pass\nschema = strawberry.Schema(query=Query, mutation=Mutation)",
+        "detail": "app.src.features.graphql.graphql_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Mutation",
+        "kind": 6,
+        "importPath": "app.src.features.graphql.graphql_schema",
+        "description": "app.src.features.graphql.graphql_schema",
+        "peekOfCode": "class Mutation(TBoxMutation, ABoxMutation, TemplateMutation, Model2TextMutation):\n    pass\nschema = strawberry.Schema(query=Query, mutation=Mutation)",
+        "detail": "app.src.features.graphql.graphql_schema",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "app.src.features.graphql.graphql_schema",
+        "description": "app.src.features.graphql.graphql_schema",
+        "peekOfCode": "schema = strawberry.Schema(query=Query, mutation=Mutation)",
+        "detail": "app.src.features.graphql.graphql_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TextTransformationInput",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.inputs",
+        "description": "app.src.features.model2text.inputs",
+        "peekOfCode": "class TextTransformationInput:\n    target_path: str\n    template_id: str\n@strawberry.input\nclass ClassToTextInput:\n    model: str\n    transformations: List[TextTransformationInput]\n@strawberry.input\nclass ModelToTextInput:\n    tbox_id: str",
+        "detail": "app.src.features.model2text.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "ClassToTextInput",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.inputs",
+        "description": "app.src.features.model2text.inputs",
+        "peekOfCode": "class ClassToTextInput:\n    model: str\n    transformations: List[TextTransformationInput]\n@strawberry.input\nclass ModelToTextInput:\n    tbox_id: str\n    abox_id: str\n    class_mappings: List[ClassToTextInput]",
+        "detail": "app.src.features.model2text.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "ModelToTextInput",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.inputs",
+        "description": "app.src.features.model2text.inputs",
+        "peekOfCode": "class ModelToTextInput:\n    tbox_id: str\n    abox_id: str\n    class_mappings: List[ClassToTextInput]",
+        "detail": "app.src.features.model2text.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "Model2TextMutation",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.mutation",
+        "description": "app.src.features.model2text.mutation",
+        "peekOfCode": "class Model2TextMutation:\n    @strawberry.mutation\n    async def add_model2text(self, model2text_input: ModelToTextInput) -> bool:\n        result = await get_m2t_collection().insert_one(model2text_input.__dict__)\n        return result.acknowledged\n    @strawberry.mutation\n    async def delete_model2text(self, id: str) -> bool:\n        result = await get_m2t_collection().delete_one({\"_id\": id})\n        return result.deleted_count > 0",
+        "detail": "app.src.features.model2text.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "Model2TextQuery",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.query",
+        "description": "app.src.features.model2text.query",
+        "peekOfCode": "class Model2TextQuery:\n    @strawberry.field\n    async def model2texts(self) -> List[ModelToTextType]:\n        docs = await get_m2t_collection().find().to_list(100)\n        return [model2text_to_type(d) for d in docs]\n    @strawberry.field\n    async def model2text(self, id: str) -> Optional[ModelToTextType]:\n        doc = await get_m2t_collection().find_one({\"_id\": id})\n        if doc:\n            return model2text_to_type(doc)",
+        "detail": "app.src.features.model2text.query",
+        "documentation": {}
+    },
+    {
+        "label": "model2text_to_type",
+        "kind": 2,
+        "importPath": "app.src.features.model2text.resolvers",
+        "description": "app.src.features.model2text.resolvers",
+        "peekOfCode": "def model2text_to_type(doc):\n    return ModelToTextType(\n        id=str(doc[\"_id\"]),\n        tbox_id=doc[\"tbox_id\"],\n        abox_id=doc[\"abox_id\"],\n        class_mappings=[ClassToTextType(\n            model=cm[\"model\"],\n            transformations=[TextTransformationType(**tf) for tf in cm.get(\"transformations\", [])]\n        ) for cm in doc.get(\"class_mappings\", [])]\n    )",
+        "detail": "app.src.features.model2text.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "TextTransformationType",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "peekOfCode": "class TextTransformationType:\n    target_path: str\n    template_id: str\n@strawberry.type\nclass ClassToTextType:\n    model: str\n    transformations: List[TextTransformationType]\n@strawberry.type\nclass ModelToTextType:\n    id: str",
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "ClassToTextType",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "peekOfCode": "class ClassToTextType:\n    model: str\n    transformations: List[TextTransformationType]\n@strawberry.type\nclass ModelToTextType:\n    id: str\n    tbox_id: str\n    abox_id: str\n    class_mappings: List[ClassToTextType]",
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "ModelToTextType",
+        "kind": 6,
+        "importPath": "app.src.features.model2text.types",
+        "description": "app.src.features.model2text.types",
+        "peekOfCode": "class ModelToTextType:\n    id: str\n    tbox_id: str\n    abox_id: str\n    class_mappings: List[ClassToTextType]",
+        "detail": "app.src.features.model2text.types",
+        "documentation": {}
+    },
+    {
+        "label": "get_tbox_collection",
+        "kind": 2,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "def get_tbox_collection():\n    return db[TBOX_COLLECTION]\ndef get_abox_collection():\n    return db[ABOX_COLLECTION]\ndef get_templates_collection():\n    return db[TEMPLATES_COLLECTION]\ndef get_m2t_collection():\n    return db[M2T_COLLECTION]",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_abox_collection",
+        "kind": 2,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "def get_abox_collection():\n    return db[ABOX_COLLECTION]\ndef get_templates_collection():\n    return db[TEMPLATES_COLLECTION]\ndef get_m2t_collection():\n    return db[M2T_COLLECTION]",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_templates_collection",
+        "kind": 2,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "def get_templates_collection():\n    return db[TEMPLATES_COLLECTION]\ndef get_m2t_collection():\n    return db[M2T_COLLECTION]",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_m2t_collection",
+        "kind": 2,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "def get_m2t_collection():\n    return db[M2T_COLLECTION]",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "TBOX_COLLECTION",
+        "kind": 5,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "TBOX_COLLECTION = \"tbox\"\nABOX_COLLECTION = \"abox\"\nTEMPLATES_COLLECTION = \"templates\"\nM2T_COLLECTION = \"model2text\"\n# MongoDB connection\nclient = AsyncIOMotorClient(\"mongodb://localhost:27017\")\ndb = client[\"ontology_db\"]\nasync def ensure_collections_exist():\n    collections = [TBOX_COLLECTION, ABOX_COLLECTION, TEMPLATES_COLLECTION, M2T_COLLECTION]\n    existing = await db.list_collection_names()",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "ABOX_COLLECTION",
+        "kind": 5,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "ABOX_COLLECTION = \"abox\"\nTEMPLATES_COLLECTION = \"templates\"\nM2T_COLLECTION = \"model2text\"\n# MongoDB connection\nclient = AsyncIOMotorClient(\"mongodb://localhost:27017\")\ndb = client[\"ontology_db\"]\nasync def ensure_collections_exist():\n    collections = [TBOX_COLLECTION, ABOX_COLLECTION, TEMPLATES_COLLECTION, M2T_COLLECTION]\n    existing = await db.list_collection_names()\n    for name in collections:",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES_COLLECTION",
+        "kind": 5,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "TEMPLATES_COLLECTION = \"templates\"\nM2T_COLLECTION = \"model2text\"\n# MongoDB connection\nclient = AsyncIOMotorClient(\"mongodb://localhost:27017\")\ndb = client[\"ontology_db\"]\nasync def ensure_collections_exist():\n    collections = [TBOX_COLLECTION, ABOX_COLLECTION, TEMPLATES_COLLECTION, M2T_COLLECTION]\n    existing = await db.list_collection_names()\n    for name in collections:\n        if name not in existing:",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "M2T_COLLECTION",
+        "kind": 5,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "M2T_COLLECTION = \"model2text\"\n# MongoDB connection\nclient = AsyncIOMotorClient(\"mongodb://localhost:27017\")\ndb = client[\"ontology_db\"]\nasync def ensure_collections_exist():\n    collections = [TBOX_COLLECTION, ABOX_COLLECTION, TEMPLATES_COLLECTION, M2T_COLLECTION]\n    existing = await db.list_collection_names()\n    for name in collections:\n        if name not in existing:\n            await db.create_collection(name)",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "client = AsyncIOMotorClient(\"mongodb://localhost:27017\")\ndb = client[\"ontology_db\"]\nasync def ensure_collections_exist():\n    collections = [TBOX_COLLECTION, ABOX_COLLECTION, TEMPLATES_COLLECTION, M2T_COLLECTION]\n    existing = await db.list_collection_names()\n    for name in collections:\n        if name not in existing:\n            await db.create_collection(name)\ndef get_tbox_collection():\n    return db[TBOX_COLLECTION]",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.src.features.mongo_db.db",
+        "description": "app.src.features.mongo_db.db",
+        "peekOfCode": "db = client[\"ontology_db\"]\nasync def ensure_collections_exist():\n    collections = [TBOX_COLLECTION, ABOX_COLLECTION, TEMPLATES_COLLECTION, M2T_COLLECTION]\n    existing = await db.list_collection_names()\n    for name in collections:\n        if name not in existing:\n            await db.create_collection(name)\ndef get_tbox_collection():\n    return db[TBOX_COLLECTION]\ndef get_abox_collection():",
+        "detail": "app.src.features.mongo_db.db",
+        "documentation": {}
+    },
+    {
+        "label": "ClassInput",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.inputs",
+        "description": "app.src.features.t_box.inputs",
+        "peekOfCode": "class ClassInput:\n    name: str\n    description: Optional[str] = None\n    constraints: Optional[List[str]] = None\n@strawberry.input\nclass DatatypePropertyInput:\n    name: str\n    domain: str\n    range: str\n    constraints: Optional[List[str]] = None",
+        "detail": "app.src.features.t_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "DatatypePropertyInput",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.inputs",
+        "description": "app.src.features.t_box.inputs",
+        "peekOfCode": "class DatatypePropertyInput:\n    name: str\n    domain: str\n    range: str\n    constraints: Optional[List[str]] = None\n@strawberry.input\nclass ObjectPropertyInput:\n    name: str\n    domain: str\n    range: str",
+        "detail": "app.src.features.t_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectPropertyInput",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.inputs",
+        "description": "app.src.features.t_box.inputs",
+        "peekOfCode": "class ObjectPropertyInput:\n    name: str\n    domain: str\n    range: str\n    constraints: Optional[List[str]] = None",
+        "detail": "app.src.features.t_box.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxMutation",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.mutation",
+        "description": "app.src.features.t_box.mutation",
+        "peekOfCode": "class TBoxMutation:\n    @strawberry.mutation\n    async def add_class_to_tbox(self, tbox_id: str, class_input: ClassInput) -> bool:\n        result = await get_tbox_collection().update_one(\n            {\"_id\": tbox_id},\n            {\"$push\": {\"classes\": class_input.__dict__}}\n        )\n        return result.modified_count > 0\n    @strawberry.mutation\n    async def add_datatype_property_to_tbox(self, tbox_id: str, prop_input: DatatypePropertyInput) -> bool:",
+        "detail": "app.src.features.t_box.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxQuery",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.query",
+        "description": "app.src.features.t_box.query",
+        "peekOfCode": "class TBoxQuery:\n    @strawberry.field\n    async def tboxes(self) -> List[TBoxType]:\n        tboxes = await get_tbox_collection().find().to_list(100)\n        return [tbox_to_type(t) for t in tboxes]\n    @strawberry.field\n    async def tbox(self, tbox_id: str) -> Optional[TBoxType]:\n        tbox = await get_tbox_collection().find_one({\"_id\": tbox_id})\n        if tbox:\n            return tbox_to_type(tbox)",
+        "detail": "app.src.features.t_box.query",
+        "documentation": {}
+    },
+    {
+        "label": "tbox_to_type",
+        "kind": 2,
+        "importPath": "app.src.features.t_box.resolvers",
+        "description": "app.src.features.t_box.resolvers",
+        "peekOfCode": "def tbox_to_type(tbox_doc):\n    return TBoxType(\n        id=str(tbox_doc[\"_id\"]),\n        classes=[ClassType(**c) for c in tbox_doc.get(\"classes\", [])],\n        datatype_properties=[DatatypePropertyType(**p) for p in tbox_doc.get(\"datatype_properties\", [])],\n        object_properties=[ObjectPropertyType(**p) for p in tbox_doc.get(\"object_properties\", [])],\n    )",
+        "detail": "app.src.features.t_box.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "ClassType",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "peekOfCode": "class ClassType:\n    name: str\n    description: Optional[str]\n    constraints: Optional[List[str]]\n@strawberry.type\nclass DatatypePropertyType:\n    name: str\n    domain: str\n    range: str\n    constraints: Optional[List[str]]",
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "DatatypePropertyType",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "peekOfCode": "class DatatypePropertyType:\n    name: str\n    domain: str\n    range: str\n    constraints: Optional[List[str]]\n@strawberry.type\nclass ObjectPropertyType:\n    name: str\n    domain: str\n    range: str",
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectPropertyType",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "peekOfCode": "class ObjectPropertyType:\n    name: str\n    domain: str\n    range: str\n    constraints: Optional[List[str]]\n@strawberry.type\nclass TBoxType:\n    id: str\n    classes: List[ClassType]\n    datatype_properties: List[DatatypePropertyType]",
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "TBoxType",
+        "kind": 6,
+        "importPath": "app.src.features.t_box.types",
+        "description": "app.src.features.t_box.types",
+        "peekOfCode": "class TBoxType:\n    id: str\n    classes: List[ClassType]\n    datatype_properties: List[DatatypePropertyType]\n    object_properties: List[ObjectPropertyType]",
+        "detail": "app.src.features.t_box.types",
+        "documentation": {}
+    },
+    {
+        "label": "JinjaTemplateInput",
+        "kind": 6,
+        "importPath": "app.src.features.template.inputs",
+        "description": "app.src.features.template.inputs",
+        "peekOfCode": "class JinjaTemplateInput:\n    name: str\n    content: str\n    description: Optional[str] = None",
+        "detail": "app.src.features.template.inputs",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateMutation",
+        "kind": 6,
+        "importPath": "app.src.features.template.mutation",
+        "description": "app.src.features.template.mutation",
+        "peekOfCode": "class TemplateMutation:\n    @strawberry.mutation\n    async def add_template(self, template_input: JinjaTemplateInput) -> bool:\n        result = await get_templates_collection().insert_one(template_input.__dict__)\n        return result.acknowledged\n    @strawberry.mutation\n    async def delete_template(self, name: str) -> bool:\n        result = await get_templates_collection().delete_one({\"name\": name})\n        return result.deleted_count > 0",
+        "detail": "app.src.features.template.mutation",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateQuery",
+        "kind": 6,
+        "importPath": "app.src.features.template.query",
+        "description": "app.src.features.template.query",
+        "peekOfCode": "class TemplateQuery:\n    @strawberry.field\n    async def templates(self) -> List[JinjaTemplateType]:\n        templates = await get_templates_collection().find().to_list(100)\n        return [template_to_type(t) for t in templates]\n    @strawberry.field\n    async def template(self, name: str) -> Optional[JinjaTemplateType]:\n        template = await get_templates_collection().find_one({\"name\": name})\n        if template:\n            return template_to_type(template)",
+        "detail": "app.src.features.template.query",
+        "documentation": {}
+    },
+    {
+        "label": "template_to_type",
+        "kind": 2,
+        "importPath": "app.src.features.template.resolvers",
+        "description": "app.src.features.template.resolvers",
+        "peekOfCode": "def template_to_type(template_doc):\n    return JinjaTemplateType(\n        name=template_doc[\"name\"],\n        content=template_doc[\"content\"],\n        description=template_doc.get(\"description\")\n    )",
+        "detail": "app.src.features.template.resolvers",
+        "documentation": {}
+    },
+    {
+        "label": "JinjaTemplateType",
+        "kind": 6,
+        "importPath": "app.src.features.template.types",
+        "description": "app.src.features.template.types",
+        "peekOfCode": "class JinjaTemplateType:\n    name: str\n    content: str\n    description: Optional[str]",
+        "detail": "app.src.features.template.types",
+        "documentation": {}
+    },
+    {
+        "label": "ping",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def ping():\n    return {\"message\": \"pong\"}\ngraphql_app = GraphQLRouter(schema)\napp.include_router(graphql_app, prefix=\"/graphql\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\n# Health check\n@app.get(\"/ping\")\ndef ping():\n    return {\"message\": \"pong\"}\ngraphql_app = GraphQLRouter(schema)\napp.include_router(graphql_app, prefix=\"/graphql\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "graphql_app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "graphql_app = GraphQLRouter(schema)\napp.include_router(graphql_app, prefix=\"/graphql\")",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
